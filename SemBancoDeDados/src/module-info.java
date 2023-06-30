@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Dinopc
- *
- */
-module SemBancoDeDados {
-}
